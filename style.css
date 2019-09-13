@@ -1,0 +1,40 @@
+body
+{
+  background:gray
+ 
+}
+h1{
+  text-align:center;
+  color:white;
+  font-family:Apple Chancery, cursive;
+  padding:15px
+}
+ .quotebox {
+	 border-radius:25px;
+  position:relative;
+  margin:5% auto auto auto;
+  width:450px;
+  padding:40px 50px;
+  display:table;
+  background-color:white;
+  
+}
+#quote{
+  text-align:center;
+    width:450px;
+    height:auto;
+    clear:both;
+    font-weight:500;
+    font-size:1.75em;
+  
+}
+#randomquote,#tweetQuote{
+  width:150px;
+  height:40px;
+  font-family:sans-sarif;
+  font-size:17px;
+  background:white;
+  text-align: center;
+  margin-top:10px;
+  cursor:pointer;
+}
