@@ -1,6 +1,7 @@
 body
 {
-  background:gray
+  background:url('forest.jpg');
+  background-size: cover;
  
 }
 h1{
